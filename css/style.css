@@ -1,0 +1,58 @@
+.jumbotron {
+	background-image: url('love1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+
+.navbar-brand span {
+	font-family: 'Rochester', cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.navbar-right {
+	font-size: 20px;
+}
+
+.fa-heart {
+	font-size: 25px;
+	color: red;
+}
+
+.info-block {
+	text-align: center;
+}
+
+[class*="col-"] {
+	
+}
+
+.center-block {
+	max-width: 100%;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+footer h3 {
+	text-align: center;
+	color: #ebebeb;
+}
+
+footer .fa {
+	font-size:30px;
+	color: #ebebeb;
+	margin-right: 10px;
+	padding-bottom: 10px;
+}
+
+footer {
+	text-align: center;
+}
