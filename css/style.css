@@ -6,18 +6,38 @@
 	height: 400px;
 }
 
+nav {
+	background: rgba(26, 26, 26, 0.6)
+}
+
 .navbar-brand span {
-	font-family: 'Rochester', cursive;
+	font-family: 'Yellowtail', cursive;
 	font-size: 30px;
-	font-weight: bold;
 }
 
 .navbar-brand {
 	font-size: 30px;
 }
 
+a {
+	color: #f2f2f2;
+}
+
+a:hover {
+	color: black;
+}
+
 .navbar-right {
 	font-size: 20px;
+}
+
+.text-right {
+	padding: 50px 190px 0 0;
+	color: #e6e6e6;
+}
+
+.text-center {
+	padding-bottom: 50px;
 }
 
 .fa-heart {
@@ -27,13 +47,11 @@
 
 .info-block {
 	text-align: center;
-}
-
-[class*="col-"] {
-	
+	padding-bottom: 20px;
 }
 
 .center-block {
+	padding-top: 20px;
 	max-width: 100%;
 }
 
